@@ -1,2 +1,2 @@
 # Aderaw_Molla_BITSr01
-this is portfolio for HahuJobs(Minab) training 
+This is entry test  portfolio for HahuJobs(Minab) fullstack and Mobile application development  training 
